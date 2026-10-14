@@ -21,3 +21,15 @@ A través de flujos asistidos por visión computacional e inteligencia artificia
 
 ### 2. Lectura & Estudio Filológico
 * **Visor Bilingüe Interactivo:** Disposición paralela en dos columnas
+
+
+
+  # Scrinium Mobile App Design
+
+  This is a code bundle for Scrinium Mobile App Design. The original project is available at https://www.figma.com/design/lvZRh2DIGLNN4CmQ5twEFH/Scrinium-Mobile-App-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
